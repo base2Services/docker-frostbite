@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'zendesk_api', '1.3.5'
 gem 'mysql2', '0.3.15'
-gem 'rest-client', '~> 1.6.7'
+#gem 'rest-client', '~> 1.6.7'
 gem 'fog', '1.22.0'
 gem 'aws-sdk', '1.40.2'
 gem 'amazon-pricing', '0.1.33'
